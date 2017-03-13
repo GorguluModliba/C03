@@ -12,6 +12,6 @@ public class HelloWorld {
 	
 	public static void ygoerguelue(){
 		System.out.print("Schöne Grüße von Yasin Görgülü");
-	}
+	} 
 	
 }
